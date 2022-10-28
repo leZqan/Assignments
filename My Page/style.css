@@ -1,0 +1,106 @@
+header {
+  background-color: darkgrey;
+  height: 4em;
+}
+
+nav {
+  padding: 10px;
+  margin-left: 68em;
+}
+
+button {
+  background-color: black;
+  border: none;
+  height: 3em;
+  margin-left: 9px;
+}
+
+.nav_butt {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+p,
+li {
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.foot_link {
+  color: black;
+}
+
+.skill {
+  margin-top: 2em;
+}
+.img1 {
+  width: 40em;
+  margin-left: 8em;
+  height: 47em;
+}
+
+.img2 {
+  width: 10em;
+  margin-top: 1em;
+  margin-left: 30em;
+  border: 2px solid black;
+}
+
+footer {
+  background-color: darkgrey;
+  color: black;
+}
+
+label {
+  font-size: 20px;
+}
+
+input {
+  margin-top: 5px;
+  height: 5em;
+  width: 30em;
+  font-size: 15px;
+}
+
+textarea {
+  height: 15em;
+  margin-top: 5px;
+  width: 30em;
+  font-size: 15px;
+}
+
+.submit {
+  font-size: 20px;
+  border-radius: 5em;
+  cursor: pointer;
+  margin-left: 4em;
+}
+
+.log_in {
+  font-size: 20px;
+  border-radius: 5em;
+  background-color: white;
+  margin-left: 11em;
+  margin-top: 1em;
+  width: 8em;
+}
+
+.log_a {
+  text-decoration: none;
+  color: black;
+}
+
+form {
+  padding: 2em 0em 12em;
+}
+
+select {
+  font-size: 20px;
+  margin-top: 5px;
+  height: 3em;
+}
